@@ -13,6 +13,8 @@
 
 ---
 </div>
+
+
 ## 🚀 About Me
 
 I'm a Software Engineering student passionate about building high-performance digital products, modern user experiences, and scalable business solutions.
@@ -213,10 +215,9 @@ Building. Learning. Shipping.
 
 ## 🤝 Let's Connect
 
-- 💼 Fiverr: [Your Fiverr Profile]
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 🌐 Portfolio: [Your Website]
-- 📧 Email: [Your Email]
+- 💼 Fiverr: [www.fiverr.com/liquidstudio_]
+- 🔗 LinkedIn: [https://www.linkedin.com/in/thameurmohamed]
+- 📧 Email: [m.thameur.dev@gmail.com]
 
 ---
 
