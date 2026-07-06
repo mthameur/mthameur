@@ -1,4 +1,5 @@
-# 👋 Mohamed Thameur
+<div align="center">
+  # 👋 Mohamed Thameur
 
 ### Software Engineering Student · Full-Stack Developer · Shopify Expert · Entrepreneur
 
@@ -11,7 +12,7 @@
 </p>
 
 ---
-
+</div>
 ## 🚀 About Me
 
 I'm a Software Engineering student passionate about building high-performance digital products, modern user experiences, and scalable business solutions.
