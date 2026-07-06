@@ -1,6 +1,6 @@
 <div align="center">
-## 👋 Mohamed Thameur
 
+# 👋 Mohamed Thameur
 ### Software Engineering Student · Full-Stack Developer · Shopify Expert · Entrepreneur
 
 <p align="left">
